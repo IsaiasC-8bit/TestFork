@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1743719223 source:c:\users\angel r\desktop\programas de progra 1 2025\nominas\src\opciones.cpp
+	"Opciones.h"
+
+1743719618 c:\users\angel r\desktop\programas de progra 1 2025\nominas\include\opciones.h
+
+1743721727 source:c:\users\angel r\desktop\programas de progra 1 2025\nominas\main.cpp
+	<iostream>
+	<iomanip>
+
